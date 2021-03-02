@@ -1,4 +1,4 @@
-In this folder you are able the find three jupyter notebooks.
+# In this folder you are able the find three jupyter notebooks.
 
 1) Naive Content-Base approach - 
    * Generate recommendation to a user higher than a given threshold.
