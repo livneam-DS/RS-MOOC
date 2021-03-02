@@ -2,5 +2,5 @@
 
 In each one of these notebooks, we will share some exploration techniques that can be handy.
 
-1) FIFA 
+1) FIFA - In progress
 2) Netflix 
