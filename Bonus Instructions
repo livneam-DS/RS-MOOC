@@ -1,0 +1,27 @@
+Bonus Instructions.
+
+Please complete the following notebook as suggested below. 
+Other suggestions (of your own) for improving the notebooks are needed to get approval by email. If you wish to do something differently, please send an email to: livneam@post.bgu.ac.il. 
+
+Submitting the notebook will be via email to: livneam@post.bgu.ac.il
+The bonus point will be according to the percent of notebooks completed.
+
+Introduction:
+ 1. Recommendations_Datasets - provide at least two additional interesting public datasets that are presented in the datasets folder. Each dataset should include links for download and description.
+ 
+EDA:
+ 1. FIFA - Add new exploration regarding the data. Make an hypothesis regarding the data and validate it using a graph. 
+ 2.	Netflix - Add new exploration regarding the data. Make an hypothesis regarding the data and validate it using a graph. 
+
+Collaborative Filtering:
+ 1. SVD surprise: Add notes about this notebook or build a custom algorithm using surprise
+ 2. CF_kNN_(Cosine): Code task - at the end of the notebook.
+
+Content-Base:
+ 1. Naive_Content_Base_approach - Code task - at the end of the notebook.
+ 2. Content_Base_approach_build_upon_TFIDF - Fix the bug - there is a bug at the end of the notebook. Can you spot it and solve it?
+ 3. Content_Base_approach_build_upon_W2V -  Code Task - clean the data.
+ 
+Factorization Machines:
+
+Deep Learning
