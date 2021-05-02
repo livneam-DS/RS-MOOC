@@ -22,6 +22,8 @@ Content-Base:
  2. Content_Base_approach_build_upon_TFIDF - Fix the bug - there is a bug at the end of the notebook. Can you spot it and solve it?
  3. Content_Base_approach_build_upon_W2V -  Code Task - clean the data.
  
+Evaluation:
+ 1. Anime - Code task - at the end of the notebook. (Perform cross validation protocol)
 Factorization Machines:
 
 Deep Learning
