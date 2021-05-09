@@ -11,7 +11,7 @@ Introduction:
  
 EDA:
  1. FIFA - Add new exploration regarding the data. Make an hypothesis regarding the data and validate it using a graph. 
- 2.	Netflix - Add new exploration regarding the data. Make an hypothesis regarding the data and validate it using a graph. 
+ 2.Netflix - Add new exploration regarding the data. Make an hypothesis regarding the data and validate it using a graph. 
 
 Collaborative Filtering:
  1. SVD surprise: Add notes about this notebook or build a custom algorithm using surprise
