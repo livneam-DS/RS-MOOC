@@ -28,6 +28,6 @@ Evaluation:
 
 Deep Learning:
 1. DeepFM - Code task - at the end of the notebook. Expand the notebook and apply DeepFM with different data such as Criteo or Avazu. 
-Notably, use sparse and desne features and perform cross validation protocol.
+   Notably, use sparse and desne features and perform cross validation protocol.
 
 Factorization Machines:
